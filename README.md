@@ -1,3 +1,3 @@
 # toggle-dark-mode
 
-![Videotogif](https://user-images.githubusercontent.com/103025142/187026742-3bd66d5d-03ca-43c4-81ed-d65707935107.gif)
+![Videotogif (1)](https://user-images.githubusercontent.com/103025142/187026841-a5a1f1cc-ac6e-424c-938c-2d1515ecc127.gif)
